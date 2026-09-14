@@ -1,16 +1,21 @@
-## Hello 👋
 
-<!--
-**allanavirginia295-hub/allanavirginia295-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, me chamo Allana! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏻‍💻 Sobre Mim
+Eu sou uma estudante de Ciência da Computação e estou no 2º Período, buscando uma oportunidade de estágio.
+
+
+## 🛠 Habilidades
+Python, HTML e C
+
+
+## Áreas de interesse em TI
+👩‍💻 Dados e  IA
+
+## Tecnologias que estou aprendendo
+🧠 Linguagens de programação e Banco de Dados
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allana-virg%C3%ADnia-84b4b6404/)
